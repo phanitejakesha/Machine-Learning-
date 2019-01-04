@@ -5,5 +5,6 @@ The following implementations can be found
 1) K Nearest Neighbors
 2) SVM 
 3) Perceptron
-4) SVD, PCA
-5) Deep neural networks
+4) SVD
+5) PCA
+6) Deep neural networks
